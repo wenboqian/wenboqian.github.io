@@ -27,12 +27,12 @@ For the past year, I've working in providing reliability support for machine lea
 
 From 2021 to 2023, I worked at **Alibaba Group** as a full-time software engineer in Guangzhou, China, undertaking objectives of enhancing quality and efficiency while empowering internal teams.
 
-# 🔥 News
-- *2024.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2023.12*: &nbsp; The position of research assistant in LiftLab, University of Virginia starts in Dec 2023.
+# News
+- *2024.05*: &nbsp;🎉🎉 Proposal of [enhancing the cloud automation](https://summerofcode.withgoogle.com/programs/2024/projects/M6IH4Vev) for Google Summer of code(GSoC) 2024 is accepted.
+- *2023.12*: &nbsp; Start the position of research assistant in LiftLab at University of Virginia from Dec. 2023.
 
 
-# 📝 Publications
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,13 +52,13 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-# 📖 Educations
+# Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-# 💬 Invited Talks
+# Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
