@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wenbo Qian"
 description              : "Distributed system | Cloud/ML system
-                            Reliability | ex-Alibaba"
+                            | Reliability | ex-Alibaba"
 repository               : "wenboqian.github.io"
 google_scholar_stats_use_cdn : true
 
