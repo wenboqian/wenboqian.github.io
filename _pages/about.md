@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-About Me
-I am a research assistant working with Prof. Chang Lou of the Lift Lab at University of Virginia. Fortunately, I am also advised by Dr. Zhen Zhang from Johns Hopkins University, Dr. Yuan Zhou from Cornell University, and Dr. Shaowei Zhu from Princeton University.
+## About Me
 
-My research interests are primarily on improving reliability and efficiency of distributed systems. One focus is to detect and localize silent errors in real-world complex systems.
+I am a research assistant working with [Prof. Chang Lou](https://changlousys.github.io/) of LiftLab at **University of Virginia**. Fortunately, I am also advised by [Dr. Zhen Zhang ](https://zarzen.me/)from **Johns Hopkins University**, [Dr. Yuan Zhou](https://zhouyuan1119.github.io/) from **Cornell University**, and [Dr. Shaowei Zhu](https://www.cs.princeton.edu/~shaoweiz/) from **Princeton University**.
 
-For the past year, I work in providing reliability support for machine learning developers, inspired by observations made from our collaborating team in AWS.
+My research interests are primarily on improving the reliability and efficiency of distributed systems. One focus is to detect and localize silent errors in real-world cloud and ML systems.
+
+For the past year, I work in providing reliability support for machine learning developers, inspired by observations made from our collaborating team in **AWS**.
+
+From 2021 to 2023, I worked in **Alibaba Group** as a full-time software engineer in Guangzhou, China.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
