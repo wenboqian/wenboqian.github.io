@@ -31,22 +31,20 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 - *2024.05*: &nbsp;🎉🎉 Proposal of [enhancing the cloud automation](https://summerofcode.withgoogle.com/programs/2024/projects/M6IH4Vev) for Google Summer of code(GSoC) 2024 is accepted.
 - *2023.12*: &nbsp; Start the position as a research assistant in LiftLab at University of Virginia from December 2023.
 
-
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+[//]: # (# 🎖 Honors and Awards)
+[//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
+[//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
 
 # Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-# Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[//]: # (# Invited Talks)
+[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
+[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *July 2021 – June 2023*, [Alibaba Group](https://github.com/)
+- *May 2024 – Sep 2024*, [Google Summer of Code](https://github.com/)
+- *July 2021 – June 2023*, [SenseTime](https://github.com/)
+- *July 2020 - Sept 2020*, [NetEase Game](https://github.com/)
