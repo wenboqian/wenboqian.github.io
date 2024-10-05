@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a research assistant working with [Prof. Chang Lou](https://changlousys.github.io/) of LiftLab at **University of Virginia**. Fortunately, I am also advised by [Dr. Zhen Zhang ](https://zarzen.me/)from **Johns Hopkins University**, [Dr. Yuan Zhou](https://zhouyuan1119.github.io/) from **Cornell University**, and [Dr. Shaowei Zhu](https://www.cs.princeton.edu/~shaoweiz/) from **Princeton University**.
+I am a research assistant working with [Prof. Chang Lou](https://changlousys.github.io/) of LiftLab at **University of Virginia**. Fortunately, I am also advised by [Dr. Zhen Zhang](https://zarzen.me/)from **Johns Hopkins University**, [Dr. Yuan Zhou](https://zhouyuan1119.github.io/) from **Cornell University**, and [Dr. Shaowei Zhu](https://www.cs.princeton.edu/~shaoweiz/) from **Princeton University**.
 
 My research interests are primarily on improving the reliability and efficiency of distributed systems. One focus is to detect and localize silent errors in real-world cloud and ML systems.
 
@@ -29,7 +29,7 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 
 # News
 - *2024.05*: &nbsp;🎉🎉 Proposal of [enhancing the cloud automation](https://summerofcode.withgoogle.com/programs/2024/projects/M6IH4Vev) for Google Summer of code(GSoC) 2024 is accepted.
-- *2023.12*: &nbsp; Start the position of research assistant in LiftLab at University of Virginia from Dec. 2023.
+- *2023.12*: &nbsp; Start the position as a research assistant in LiftLab at University of Virginia from December 2023.
 
 
 # Publications
@@ -60,5 +60,5 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# Internships
+# Work Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
