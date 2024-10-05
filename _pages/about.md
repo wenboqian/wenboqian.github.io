@@ -27,6 +27,8 @@ For the past year, I've working in providing reliability support for machine lea
 
 From 2021 to 2023, I worked at **Alibaba Group** as a full-time software engineer in Guangzhou, China, undertaking objectives of enhancing quality and efficiency while empowering internal teams.
 
+[CV](https://docs.google.com/document/d/16ZYFi1AhG4aCkDnt89l0f-ZvwCDoq54-/edit?usp=drive_link&ouid=115442034531079740511&rtpof=true&sd=true)
+
 # News
 - *2024.05*: &nbsp;🎉🎉 Proposal of [enhancing the cloud automation](https://summerofcode.withgoogle.com/programs/2024/projects/M6IH4Vev) for Google Summer of code(GSoC) 2024 is accepted.
 - *2023.12*: &nbsp; Start the position as a research assistant in LiftLab at University of Virginia from December 2023.
