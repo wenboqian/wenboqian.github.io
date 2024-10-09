@@ -29,6 +29,8 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 
 ### [CV](../docs/cv.pdf)
 
+<span class='anchor' id='-news'></span>
+
 # News
 - *2024.05*: &nbsp;🎉🎉 Proposal of [enhancing the cloud automation](https://summerofcode.withgoogle.com/programs/2024/projects/M6IH4Vev) for Google Summer of code(GSoC) 2024 is accepted.
 - *2023.12*: &nbsp; Start the position as a research assistant in LiftLab at University of Virginia from December 2023.
@@ -36,6 +38,8 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 [//]: # (# 🎖 Honors and Awards)
 [//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
+
+<span class='anchor' id='-educations'></span>
 
 # Educations
 - *2023.09 - 2025.05 (expected)*, Master of Computer Science, Northeastern University, the United States
@@ -45,6 +49,8 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 [//]: # (# Invited Talks)
 [//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
+
+<span class='anchor' id='work-exp'></span>
 
 # Work Experience
 - *Dec. 2023 – Present*, Research Assistant, [University of Virginia](https://www.virginia.edu/)
