@@ -27,7 +27,7 @@ For the past year, I've working in providing reliability support for machine lea
 
 From 2021 to 2023, I worked at **Alibaba Group** as a full-time software engineer in Guangzhou, China, undertaking objectives of enhancing quality and efficiency while empowering internal teams.
 
-### [CV](../docs/cv.pdf)
+### [CV](https://github.com/wenboqian/wenboqian.github.io/tree/main/docs/cv.pdf)
 
 <span class='anchor' id='-news'></span>
 
