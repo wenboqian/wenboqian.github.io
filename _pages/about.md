@@ -32,7 +32,8 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 <span class='anchor' id='-news'></span>
 
 # News
-- *2024.05*: &nbsp;🎉🎉 Proposal of [enhancing the cloud automation](https://summerofcode.withgoogle.com/programs/2024/projects/M6IH4Vev) for Google Summer of code(GSoC) 2024 is accepted.
+- *2025.02*: &nbsp;🎉🎉 Our workshop paper on Verifying Large ML Models, which I am co-first author, has been accepted by [EuroMLSys ‘25](https://euromlsys.eu/#) (co-located with EuroSys 2025).
+- *2024.05*: &nbsp;🎉 Proposal of [enhancing the cloud automation](https://summerofcode.withgoogle.com/programs/2024/projects/M6IH4Vev) for Google Summer of code(GSoC) 2024 is accepted.
 - *2023.12*: &nbsp; Start the position as a research assistant in LiftLab at University of Virginia from December 2023.
 
 [//]: # (# 🎖 Honors and Awards)
