@@ -57,5 +57,5 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 - *Dec. 2023 – Present*, Research Assistant, [University of Virginia](https://www.virginia.edu/)
 - *July 2021 – June 2023*, full-time Software Engineer, [Alibaba Group](https://www.alibabagroup.com/en-US/)
 - *May 2024 – Sep 2024*, Open Source Contributor, [Google Summer of Code](https://summerofcode.withgoogle.com/)
-- *Feb. 2021 – May 2023*, Software Engineer Intern, [SenseTime](https://www.sensetime.com/en)
+- *Feb. 2021 – May 2021*, Software Engineer Intern, [SenseTime](https://www.sensetime.com/en)
 - *July 2020 - Sept 2020*, Software Engineer Intern, [NetEase Game](https://www.neteasegames.com/)
