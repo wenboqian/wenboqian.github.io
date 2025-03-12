@@ -40,7 +40,7 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 [//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
 
-<span class='anchor' id='-educations'></span>
+<span class='anchor' id='publications'></span>
 
 # Publications
 [Verifying Semantic Equivalence of Large Models with Equality Saturation](https://changlousys.github.io/paper/aerify-euromlsys25.pdf) 
@@ -48,6 +48,8 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 Kahfi S. Zulkifli*, **Wenbo Qian*** (co-first author), Shaowei Zhu, Yuan Zhou, Zhen Zhang, Chang Lou 
 
 [EuroMLSys Workshop (co-located with EuroSys 2025)](https://euromlsys.eu/#)
+
+<span class='anchor' id='-educations'></span>
 
 # Educations
 - *2023.09 - 2025.05 (expected)*, Master of Computer Science, Northeastern University, the United States
