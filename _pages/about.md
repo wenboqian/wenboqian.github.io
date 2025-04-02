@@ -43,7 +43,7 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 <span class='anchor' id='publications'></span>
 
 # Publications
-[Verifying Semantic Equivalence of Large Models with Equality Saturation](https://changlousys.github.io/paper/aerify-euromlsys25.pdf) 
+[Verifying Semantic Equivalence of Large Models with Equality Saturation](https://dl.acm.org/doi/10.1145/3721146.3721943) 
 
 Kahfi S. Zulkifli *, **Wenbo Qian** * (co-first author), Shaowei Zhu, Yuan Zhou, Zhen Zhang, Chang Lou 
 
