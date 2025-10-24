@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 
 I am a PhD student in Boston University working with [Prof. Yigong Hu](https://yigonghu.github.io/).  
-My research interests are primarily on improving the performance and reliability of distributed system. One focus is to enhance system performance, spanning from machine learning systems to cloud computing platforms.
+My research interests are primarily on improving the performance and reliability of distributed system. One focus is to enhance **system performance**, spanning from **machine learning systems** to **cloud computing** platforms.
 
 Previsouly I worked with [Prof. Chang Lou](https://changlousys.github.io/) of LiftLab at **University of Virginia**. Fortunately, I am also advised by [Dr. Zhen Zhang](https://zarzen.me/), **Johns Hopkins University**, [Dr. Yuan Zhou](https://zhouyuan1119.github.io/), **Cornell University**, and [Dr. Shaowei Zhu](https://www.cs.princeton.edu/~shaoweiz/), **Princeton University**.
 
