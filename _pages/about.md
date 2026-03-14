@@ -33,6 +33,7 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 <span class='anchor' id='-news'></span>
 
 # News
+- *2026.03*: &nbsp; Glad to serve on the Artifact Evaluation Committee for [MLSys 2026](https://mlsys.org/)!
 - *2026.01*: &nbsp; Had a talk at [New England Systems Day 2026](https://newenglandsystemsday.github.io/2026/schedule.html), hosted at Harvard.
 - *2025.09*: &nbsp; Start a new chapter as a PhD student at Boston University.
 - *2025.02*: &nbsp;🎉🎉 Our workshop paper on [Verifying Large ML Models](https://dl.acm.org/doi/10.1145/3721146.3721943) has been accepted by [EuroMLSys ‘25](https://euromlsys.eu/#) (co-located with EuroSys 2025). A big thank you to Chang, Kahfi, and the AWS fellows for their invaluable support!
