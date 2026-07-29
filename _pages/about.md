@@ -33,10 +33,12 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 <span class='anchor' id='-news'></span>
 
 # News
-- *2026.03*: &nbsp; Glad to serve on the Artifact Evaluation Committee for [MLSys 2026](https://mlsys.org/)!
+- *2026.07*: &nbsp;🎉🎉🎉 Our paper [Eprof](https://arxiv.org/pdf/2512.08365) has been accepted by [NSDI '27](https://www.usenix.org/conference/nsdi27)!
+- *2026.07*: &nbsp; Glad to serve on the Artifact Evaluation Committee for [NSDI '27](https://www.usenix.org/conference/nsdi27).
+- *2026.03*: &nbsp; Glad to serve on the Artifact Evaluation Committee for [MLSys '26](https://mlsys.org/).
 - *2026.01*: &nbsp; Had a talk at [New England Systems Day 2026](https://newenglandsystemsday.github.io/2026/schedule.html), hosted at Harvard.
 - *2025.09*: &nbsp; Start a new chapter as a PhD student at Boston University.
-- *2025.02*: &nbsp;🎉🎉 Our workshop paper on [Verifying Large ML Models](https://dl.acm.org/doi/10.1145/3721146.3721943) has been accepted by [EuroMLSys ‘25](https://euromlsys.eu/#) (co-located with EuroSys 2025). A big thank you to Chang, Kahfi, and the AWS fellows for their invaluable support!
+- *2025.02*: &nbsp;🎉🎉 Our workshop paper on [Verifying Large ML Models](https://dl.acm.org/doi/10.1145/3721146.3721943) has been accepted by [EuroMLSys '25](https://euromlsys.eu/#) (co-located with EuroSys 2025)! 
 - *2024.05*: &nbsp;🎉 Proposal of [enhancing the cloud automation](https://summerofcode.withgoogle.com/programs/2024/projects/M6IH4Vev) for Google Summer of code(GSoC) 2024 is accepted.
 - *2023.12*: &nbsp; Start the position as a research assistant in LiftLab at University of Virginia from December 2023.
 
@@ -47,6 +49,14 @@ From 2021 to 2023, I worked at **Alibaba Group** as a full-time software enginee
 <span class='anchor' id='publications'></span>
 
 # Publications
+[Eprof: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging](https://arxiv.org/pdf/2512.08365)
+
+Yi Pan *, **Wenbo Qian** *(co-first author), Dedong Xie, Ruiyan Hu, Yigong Hu, Baris Kasikci
+
+[24th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2027)](https://www.usenix.org/conference/nsdi27)
+
+<span class='anchor' id='-educations'></span>
+
 [Verifying Semantic Equivalence of Large Models with Equality Saturation](https://dl.acm.org/doi/10.1145/3721146.3721943) 
 
 Kahfi S. Zulkifli *, **Wenbo Qian** * (co-first author), Shaowei Zhu, Yuan Zhou, Zhen Zhang, Chang Lou 
@@ -57,7 +67,7 @@ Kahfi S. Zulkifli *, **Wenbo Qian** * (co-first author), Shaowei Zhu, Yuan Zhou,
 
 # Educations
 
-- *2025.09 - 2030.05(expected)*, PhD student in Computer Engineering, Boston University, the United States
+- *2025.09 - present*, PhD student in Computer Engineering, Boston University, the United States
 - *2023.09 - 2025.08*, Master of Computer Science, Northeastern University, the United States
 - *2017.09 - 2021.06*, Bachelor of Computer Science, Sichuan University, Chengdu, China
 - *2019.01 - 2019.02*, Academic Exchange Program Student, University of California, Berkeley, California, the United States
