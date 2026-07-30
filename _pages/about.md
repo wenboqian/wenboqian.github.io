@@ -130,7 +130,7 @@ I previously worked at **Alibaba Group** as a Software Engineer for 2 years, und
   <div class="pub-content">
     <h3><a href="https://dl.acm.org/doi/10.1145/3721146.3721943" target="_blank">Verifying Semantic Equivalence of Large Models with Equality Saturation</a></h3>
     <p class="pub-authors">Kahfi S. Zulkifli *, <strong>Wenbo Qian</strong> * (co-first author), Shaowei Zhu, Yuan Zhou, Zhen Zhang, Chang Lou</p>
-    <p class="pub-venue"><a href="https://euromlsys.eu/#accepted-papers" target="_blank">EuroMLSys 2025 (co-located with EuroSys)</a></p>
+    <p class="pub-venue"><a href="https://2025.euromlsys.eu/" target="_blank">EuroMLSys 2025 (co-located with EuroSys)</a></p>
     <div class="pub-buttons">
       <a href="https://dl.acm.org/doi/10.1145/3721146.3721943" target="_blank">Paper</a>
     </div>
@@ -152,7 +152,6 @@ I previously worked at **Alibaba Group** as a Software Engineer for 2 years, und
 
 # Work Experience
 - *Sep. 2025 – present*, PhD Student, [Boston University](https://www.bu.edu/)
-- *Dec. 2023 – Feb. 2025*, Research Assistant, [University of Virginia](https://www.virginia.edu/)
-- *July 2021 – June 2023*, full-time Software Engineer, [Alibaba Group](https://www.alibabagroup.com/en-US/)
+- *July 2021 – June 2023*, Software Engineer, [Alibaba Group](https://www.alibabagroup.com/en-US/)
 - *May 2024 – Sep 2024*, Open Source Contributor, [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - *July 2020 - Sept 2020*, Software Engineer Intern, [NetEase Game](https://www.neteasegames.com/)
