@@ -151,7 +151,6 @@ Previously I worked at **Alibaba Group** as a Software Engineer for two years, u
 <span class='anchor' id='work-exp'></span>
 
 # Work Experience
-- *Sep. 2025 – Present*, PhD Candidate, [Boston University](https://www.bu.edu/)
-- *July 2021 – June 2023*, Software Engineer, [Alibaba Group](https://www.alibabagroup.com/en-US/)
-- *May 2024 – Sep 2024*, Open Source Contributor, [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- *July 2021 - June 2023*, Software Engineer, [Alibaba Group](https://www.alibabagroup.com/en-US/)
+- *May 2024 - Sep 2024*, Open Source Contributor, [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - *July 2020 - Sept 2020*, Software Engineer Intern, [NetEase Game](https://www.neteasegames.com/)
