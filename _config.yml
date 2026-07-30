@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Wenbo Qian"
-description              : "Distributed system | Cloud/ML system
-                            | Reliability | ex-Alibaba"
+description              : "Distributed system | Cloud/ML system"
 repository               : "wenboqian.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenbo Qian"
   avatar           : "images/selfie.jpg"
-  bio              : "Northeastern University"
-  location         : "California, USA"
+  bio              : "Boston University"
+  location         : "Boston, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
