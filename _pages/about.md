@@ -48,8 +48,6 @@ I previously worked at **Alibaba Group** as a Software Engineer for 2 years, und
 
 <span class='anchor' id='publications'></span>
 
-<span class='anchor' id='publications'></span>
-
 <style>
 .pub-card {
   display: flex;
@@ -136,6 +134,8 @@ I previously worked at **Alibaba Group** as a Software Engineer for 2 years, und
     </div>
   </div>
 </div>
+
+<span class='anchor' id='-educations'></span>
 
 # Educations
 
