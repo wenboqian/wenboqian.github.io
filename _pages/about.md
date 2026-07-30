@@ -115,7 +115,7 @@ I previously worked at **Alibaba Group** as a Software Engineer for 2 years, und
   <div class="pub-badge">NSDI '27</div>
   <div class="pub-content">
     <h3><a href="https://arxiv.org/pdf/2512.08365" target="_blank">Eprof: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging</a></h3>
-    <p class="pub-authors">Yi Pan *, <strong>Wenbo Qian</strong> * (co-first author), Dedong Xie, Ruiyan Hu, Yigong Hu, Baris Kasikci</p>
+    <p class="pub-authors">Yi Pan*, <strong>Wenbo Qian</strong>* (co-first author), Dedong Xie, Ruiyan Hu, Yigong Hu, Baris Kasikci</p>
     <p class="pub-venue"><a href="https://www.usenix.org/conference/nsdi27" target="_blank">24th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2027)</a></p>
     <div class="pub-buttons">
       <a href="https://arxiv.org/pdf/2512.08365" target="_blank">Paper</a>
@@ -127,7 +127,7 @@ I previously worked at **Alibaba Group** as a Software Engineer for 2 years, und
   <div class="pub-badge">EuroMLSys '25</div>
   <div class="pub-content">
     <h3><a href="https://dl.acm.org/doi/10.1145/3721146.3721943" target="_blank">Verifying Semantic Equivalence of Large Models with Equality Saturation</a></h3>
-    <p class="pub-authors">Kahfi S. Zulkifli *, <strong>Wenbo Qian</strong> * (co-first author), Shaowei Zhu, Yuan Zhou, Zhen Zhang, Chang Lou</p>
+    <p class="pub-authors">Kahfi S. Zulkifli*, <strong>Wenbo Qian</strong>* (co-first author), Shaowei Zhu, Yuan Zhou, Zhen Zhang, Chang Lou</p>
     <p class="pub-venue"><a href="https://2025.euromlsys.eu/" target="_blank">EuroMLSys 2025 (co-located with EuroSys)</a></p>
     <div class="pub-buttons">
       <a href="https://dl.acm.org/doi/10.1145/3721146.3721943" target="_blank">Paper</a>
@@ -139,10 +139,10 @@ I previously worked at **Alibaba Group** as a Software Engineer for 2 years, und
 
 # Educations
 
-- *2025.09 - present*, PhD student in Computer Engineering, Boston University, the United States
-- *2023.09 - 2025.08*, Master of Computer Science, Northeastern University, the United States
+- *2025.09 - Present*, PhD Candidate in Computer Engineering, [Boston University](https://www.bu.edu/)
+- *2023.09 - 2025.08*, Master of Computer Science, Northeastern University
 - *2017.09 - 2021.06*, Bachelor of Computer Science, Sichuan University, Chengdu, China
-- *2019.01 - 2019.02*, Academic Exchange Program Student, University of California, Berkeley, California, the United States
+- *2019.01 - 2019.02*, Academic Exchange Program, University of California, Berkeley, California
 
 [//]: # (# Invited Talks)
 [//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
@@ -151,7 +151,7 @@ I previously worked at **Alibaba Group** as a Software Engineer for 2 years, und
 <span class='anchor' id='work-exp'></span>
 
 # Work Experience
-- *Sep. 2025 – present*, PhD Student, [Boston University](https://www.bu.edu/)
+- *Sep. 2025 – Present*, PhD Candidate, [Boston University](https://www.bu.edu/)
 - *July 2021 – June 2023*, Software Engineer, [Alibaba Group](https://www.alibabagroup.com/en-US/)
 - *May 2024 – Sep 2024*, Open Source Contributor, [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - *July 2020 - Sept 2020*, Software Engineer Intern, [NetEase Game](https://www.neteasegames.com/)
