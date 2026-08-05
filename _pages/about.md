@@ -40,7 +40,8 @@ Previously I worked at **Alibaba Group** as a Software Engineer for two years, u
 - *2025.09*: &nbsp; Start a new chapter as a PhD student at Boston University.
 - *2025.02*: &nbsp;🎉 Our workshop paper on [Verifying Large ML Models](https://dl.acm.org/doi/10.1145/3721146.3721943) has been accepted by [EuroMLSys '25](https://euromlsys.eu/#) (co-located with EuroSys 2025)! 
 - *2024.05*: &nbsp; Proposal of [enhancing the cloud automation](https://summerofcode.withgoogle.com/programs/2024/projects/M6IH4Vev) for Google Summer of code(GSoC) 2024 is accepted.
-- *2023.12*: &nbsp; Start the position as a research assistant in LiftLab at University of Virginia from December 2023.
+
+[//]: # (- *2023.12*: &nbsp; Start the position as a research assistant in LiftLab at University of Virginia from December 2023.)
 
 [//]: # (# 🎖 Honors and Awards)
 [//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
