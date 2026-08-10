@@ -116,7 +116,7 @@ Previously I worked at **Alibaba Group** as a Software Engineer for two years, u
   <div class="pub-badge">NSDI '27</div>
   <div class="pub-content">
     <h3><a href="https://arxiv.org/pdf/2512.08365" target="_blank">Eprof: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging</a></h3>
-    <p class="pub-authors">Yi Pan*, <strong>Wenbo Qian</strong>* (co-first author), Dedong Xie, Ruiyan Hu, Yigong Hu, Baris Kasikci</p>
+    <p class="pub-authors">Yi Pan*, <u><strong>Wenbo Qian</strong></u>* <strong>(co-first author)</strong>, Dedong Xie, Ruiyan Hu, Yigong Hu, Baris Kasikci</p>
     <p class="pub-venue"><a href="https://www.usenix.org/conference/nsdi27" target="_blank">24th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2027)</a></p>
     <div class="pub-buttons">
       <a href="https://arxiv.org/pdf/2512.08365" target="_blank">Paper</a>
@@ -128,7 +128,7 @@ Previously I worked at **Alibaba Group** as a Software Engineer for two years, u
   <div class="pub-badge">EuroMLSys '25</div>
   <div class="pub-content">
     <h3><a href="https://dl.acm.org/doi/10.1145/3721146.3721943" target="_blank">Verifying Semantic Equivalence of Large Models with Equality Saturation</a></h3>
-    <p class="pub-authors">Kahfi S. Zulkifli*, <strong>Wenbo Qian</strong>* (co-first author), Shaowei Zhu, Yuan Zhou, Zhen Zhang, Chang Lou</p>
+    <p class="pub-authors">Kahfi S. Zulkifli*, <u><strong>Wenbo Qian</strong></u>* <strong>(co-first author)</strong>, Shaowei Zhu, Yuan Zhou, Zhen Zhang, Chang Lou</p>
     <p class="pub-venue"><a href="https://2025.euromlsys.eu/" target="_blank">EuroMLSys 2025 (co-located with EuroSys)</a></p>
     <div class="pub-buttons">
       <a href="https://dl.acm.org/doi/10.1145/3721146.3721943" target="_blank">Paper</a>
@@ -140,8 +140,8 @@ Previously I worked at **Alibaba Group** as a Software Engineer for two years, u
 
 # Educations
 
-- *2025.09 - Present*, PhD Candidate in Computer Engineering, [Boston University](https://www.bu.edu/)
-- *2023.09 - 2025.08*, Master of Computer Science, Northeastern University
+- *2025.09 - Present*, PhD Candidate in Computer Engineering, [Boston University](https://www.bu.edu/), United States
+- *2023.09 - 2025.08*, Master of Computer Science, Northeastern University, United States
 - *2017.09 - 2021.06*, Bachelor of Computer Science, Sichuan University, Chengdu, China
 - *2019.01 - 2019.02*, Academic Exchange Program, University of California, Berkeley, California
 
