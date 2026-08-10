@@ -26,7 +26,7 @@ My research interests are primarily on improving the **performance and reliabili
 [//]: # (Previsouly I worked with [Prof. Chang Lou]&#40;https://changlousys.github.io/&#41; of LiftLab at **University of Virginia**. Fortunately, I am also advised by [Dr. Zhen Zhang]&#40;https://zarzen.me/&#41;, **Johns Hopkins University**, [Dr. Yuan Zhou]&#40;https://zhouyuan1119.github.io/&#41;, **Cornell University**, and [Dr. Shaowei Zhu]&#40;https://www.cs.princeton.edu/~shaoweiz/&#41;, **Princeton University**.)
 
 [//]: # (For the past year, I've working in providing reliability support for machine learning developers, inspired by observations made from our collaborating team in **AWS**.  )
-Previously I worked at **Alibaba Group** as a Software Engineer for two years, undertaking objectives of enhancing quality and efficiency while empowering internal teams.
+Previously, I worked as a Software Engineer at **Alibaba Group** for two years, improving system efficiency at scale.
 
 ## [CV](https://drive.google.com/file/d/1AJFomQbjvxwnVk1dDaFwoJKEJV4GjDQc/view?usp=sharing)
 
