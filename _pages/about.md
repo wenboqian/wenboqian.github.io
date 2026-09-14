@@ -120,6 +120,7 @@ Previously, I worked as a Software Engineer at **Alibaba Group** for two years, 
     <p class="pub-venue"><a href="https://www.usenix.org/conference/nsdi27" target="_blank">24th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2027)</a></p>
     <div class="pub-buttons">
       <a href="https://arxiv.org/pdf/2512.08365" target="_blank">Paper</a>
+      <span class="pub-acceptance"> Acceptance Rate: 18.6%</span>
     </div>
   </div>
 </div>
